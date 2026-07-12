@@ -1,0 +1,2 @@
+Revert log
+I used git revert to undo a bad commit safely, keeping history intact.
