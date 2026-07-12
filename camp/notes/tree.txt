@@ -1,0 +1,8 @@
+camp:
+notes projects
+
+camp/notes:
+day1.md hello.txt tree.txt
+
+camp/projects/week1:
+hello.txt
