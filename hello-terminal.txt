@@ -1,0 +1,6 @@
+Darwin
+SHELL=/bin/zsh
+whoami: ali
+/Users/ali/masar-hello
+hello camp
+git version 2.43.0
